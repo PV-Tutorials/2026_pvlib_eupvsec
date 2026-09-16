@@ -1,5 +1,5 @@
 # PV Systems Modeling with Python: an Interactive Introduction
-<img width="1827" height="369" alt="2026_pvlib_eupvsec" src="https://github.com/user-attachments/assets/4b072a2a-7f5a-4f4e-9e50-840d20bca1d5" />
+<img width="1827" height="369" alt="2026_pvlib_eupvsec" src="https://raw.githubusercontent.com/PV-Tutorials/2026_pvlib_eupvsec/refs/heads/main/static/2026_pvlib_eupvsec.png" />
 The tutorial will be an introduction to how to model bifacial tracking systems using the open-source pvlib Python package. This repository contains the content used for the tutorial.
 
 ## Practical information
